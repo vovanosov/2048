@@ -21,9 +21,7 @@ def inter2 (x1, y1, x2, y2, db1, db2, db3):
 		return 0
 
 
-		
 
-	
 pygame.init()
 pygame.mixer.init()
 window = pygame.display.set_mode((1280,720),pygame.HWSURFACE|pygame.DOUBLEBUF|pygame.FULLSCREEN)
