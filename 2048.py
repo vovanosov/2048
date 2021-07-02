@@ -20,6 +20,7 @@ def inter2 (x1, y1, x2, y2, db1, db2, db3):
 	else:
 		return 0
 
+#hello
 
 pygame.init()
 pygame.mixer.init()
